@@ -1,6 +1,9 @@
 
 public class Hello {
 
+
+//added one line
+
 	//block
 	static{
 		System.out.print("static block executed...");
